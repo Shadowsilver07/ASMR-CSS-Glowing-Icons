@@ -24,7 +24,9 @@ body {
     background-color: #18191f;
     color: #fff;
     box-shadow: 2px 2px #00000080 ,10px 1px 12px #00000080,
-    2px 2px #00000080,2px 2px 3px #00000080,inset 2px 2px 10px #00000080,
-    inset 2px 2px 10px #00000080,inset 2px 2px 10px #00000080,inset 2px 2px 10px #00000080;
+    2px 2px 10px #00000080,2px 2px 3px #00000080,inset 2px 2px 10px #00000080,
+    inset 2px 2px 10px #00000080,inset 2px 2px 10px #00000080,inset 2px 2px 10px #00000080,
     border-radius: 29px;
+    padding: 11px 19px;
+    margin: 0 40px;
 }
